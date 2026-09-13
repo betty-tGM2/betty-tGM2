@@ -26,6 +26,18 @@ It combines daily state check-ins, capacity estimation, task energy costs, an Id
 
 **Demonstrates:** product design, full-stack development, authentication, personal analytics, data modelling, responsive UI, and user-feedback-driven iteration.
 
+### 🏡 [StayFlow](https://github.com/betty-tGM2/stayflow-case-study)
+
+A privacy-safe case study for a short-term-rental operations dashboard that unifies multiple booking calendars, maps listings to physical properties, detects conflicts, and generates follow-up work for availability and cleaning.
+
+**Demonstrates:** workflow automation, calendar integration, product design, data modelling, exception handling, and full-stack prototyping. The source code and operational data remain private.
+
+### 🏢 [Study & Meeting Space Reservation](https://github.com/betty-tGM2/wechat-reservation-case-study)
+
+A WeChat Mini Program prototype that turns manual venue coordination into a customer booking flow with exact seat or room selection, availability validation, booking records, check-in, feedback, and an owner console.
+
+**Demonstrates:** WeChat Mini Program development, booking-system design, service workflow digitization, inventory modelling, and launch-aware MVP planning. The source code remains private.
+
 ### 📊 [Risk Structure in CDS Spreads](https://github.com/betty-tGM2/Risk-Structure-in-CDS-Spreads-A-Multivariate-Approach)
 
 A multivariate analysis of more than one million CDS observations across 661 companies.
@@ -39,6 +51,18 @@ The project uses PCA, K-means clustering, and factor analysis to identify common
 A team project using R to clean polling data, evaluate poll quality, and model candidate support across time, states, and pollsters using linear and Bayesian methods.
 
 **Demonstrates:** reproducible analysis, Bayesian regression, uncertainty communication, data validation, and collaborative research.
+
+### 🛒 [Canadian Grocery Beverage Prices](https://github.com/betty-tGM2/Analysis-of-Canadian-Grocery-Store-Beverage-Prices)
+
+A reproducible R project using exploratory analysis and Bayesian regression to study cross-vendor and monthly beverage-pricing patterns.
+
+**Demonstrates:** end-to-end data workflows, Bayesian modelling, validation, visualization, uncertainty-aware interpretation, and Quarto reporting.
+
+### 🎵 [Spotify Data Analysis](https://github.com/betty-tGM2/Data_analysis_spotify)
+
+An exploratory R analysis of song duration and valence across Joji's Spotify catalogue.
+
+**Demonstrates:** API-derived data, exploratory analysis, ggplot2 visualization, interpretation, and reproducible collaborative reporting.
 
 ## What I can build
 
